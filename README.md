@@ -49,6 +49,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Xpektra7&show_icons=true&theme=default" alt="GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xpektra7&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---

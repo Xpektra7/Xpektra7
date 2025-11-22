@@ -14,7 +14,7 @@ Smarter traffic systems, cooler interfaces, and whatever else keeps me up at 2 A
 
 #### 🛠️ Stack Highlights
 
-HTML • CSS • JS • React • Tailwind • Python • MATLAB • Arduino • a bit of C++
+HTML • CSS • JS • React • Tailwind • NextJs • Python • MATLAB • Arduino • a bit of C
 
 #### 📬 Ping me
 
